@@ -12,7 +12,7 @@ class Solution:
     def detectLoop(self, head):
         # #code here
         # current = head
-        # for i in range(0, n):
+        # for i in range(0, n):               #This only checks in the last node also we need to check pointers
         #     current = current.next
         # if current.next is not None:
         #     return False
