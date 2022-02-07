@@ -1,1 +1,0 @@
-{"name":"Local: reverse_ll","url":"c:\\Users\\rijal\\Desktop\\coding_prac\\reverse_ll.py","tests":[{"id":1644235730701,"input":"1\n6\n1 2 3 4 5 6","output":"6 5 4 3 2 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rijal\\Desktop\\coding_prac\\reverse_ll.py","group":"local","local":true}
